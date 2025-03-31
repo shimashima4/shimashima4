@@ -15,7 +15,7 @@
 [![スキル](https://skillicons.dev/icons?i=js,p5js,html,css,sass,c&perline=3)]()
 
 **Tools**: VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
-[![スキル](https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,pr,ae&perline=3)]()
+[![スキル](https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,pr,ae&perline=4)]()
 
 ## links
 - [X](https://x.com/aoshimalobo?s=21)
