@@ -1,5 +1,4 @@
-{: align="center"}
-# Hello! Myname is Aoshima.
+<h1 align="center"> Hello! Myname is Aoshima.</h1>
 <br>
 
 <p align="center">
