@@ -1,5 +1,7 @@
 # Hello! Myname is Aoshima.
-
+<br>
+<img src="https://avatars.githubusercontent.com/u/166364882?v=4">
+<br>
 ## 🗒️about
 トライデントコンピュータ専門学校のWebデザイン学科で<br>
 フロントエンドエンジニアを目指して勉強しています<br>
