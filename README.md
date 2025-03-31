@@ -11,9 +11,11 @@
 高校時代はAiやPsを使用したデザインを制作する部活に所属
 
 ## Skills
-**Languages**: JavaScript, HTML, CSS, C
-[![スキル](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,js,ts,threejs,p5js,react,arduino,blender&perline=8)]()
+**Languages**: JavaScript, p5js, HTML, CSS, Sass, C
+[![スキル](https://skillicons.dev/icons?i=js,p5js,html,css,sass,c&perline=3)]()
+
 **Tools**: VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
+[![スキル](https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,premier,ae&perline=3)]()
 
 ## links
 - [X](https://x.com/aoshimalobo?s=21)
