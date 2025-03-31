@@ -13,13 +13,13 @@
 
 ## 💪Skills
 **Languages**: <br>
-JavaScript, p5js, HTML, CSS, Sass, C
+JavaScript, p5js, HTML, CSS, Sass, C<br>
 <br>
 [![スキル](https://skillicons.dev/icons?i=js,p5js,html,css,sass,c&perline=3)]()
 <br>
 <br>
 **Tools**: <br>
-VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
+VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects<br>
 <br>
 [![スキル](https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,pr,ae&perline=4)]()
 
