@@ -12,12 +12,14 @@
 高校時代はAiやPsを使用したデザインを制作する部活に所属<br>
 
 ## 💪Skills
-**Languages**: JavaScript, p5js, HTML, CSS, Sass, C
+**Languages**: <br>
+JavaScript, p5js, HTML, CSS, Sass, C
 <br>
 [![スキル](https://skillicons.dev/icons?i=js,p5js,html,css,sass,c&perline=3)]()
 <br>
 <br>
-**Tools**: VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
+**Tools**: <br>
+VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
 <br>
 [![スキル](https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,pr,ae&perline=4)]()
 
