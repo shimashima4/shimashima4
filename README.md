@@ -1,3 +1,4 @@
+{: align="center"}
 # Hello! Myname is Aoshima.
 <br>
 
