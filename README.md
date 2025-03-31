@@ -19,7 +19,7 @@ JavaScript, p5js, HTML, CSS, Sass, C<br>
 <br>
 <br>
 **Tools**: <br>
-VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects<br>
+VS Code, Git, Figma, Illstrator, Photoshop, <br>premierPro, AfterEffects<br>
 <br>
 [![スキル](https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,pr,ae&perline=4)]()
 <br>
