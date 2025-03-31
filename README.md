@@ -2,7 +2,8 @@
 
 ## about
 トライデントコンピュータ専門学校のWebデザイン学科で
-フロントエンドエンジニアを目指して勉強しています。
+フロントエンドエンジニアを目指して勉強しています
+2026年卒
 
 ## profile
 2003年11月25日生まれ
@@ -11,7 +12,7 @@
 
 ## Skills
 **Languages**: JavaScript, HTML, CSS, C
-[![スキル](https://skillicons.dev/icons?i=ai,ps,figma,html,css,sass,tailwind,js,ts,threejs,p5js,react,arduino,blender&perline=8)]()
+[![スキル](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,js,ts,threejs,p5js,react,arduino,blender&perline=8)]()
 **Tools**: VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
 
 ## links
