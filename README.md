@@ -27,3 +27,11 @@ VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects<br>
 - [X](https://x.com/aoshimalobo?s=21)
 - [blog](https://aoshima.pupu.jp/blog/)
 
+- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shimashima4&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shimashima4&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=shimashima4&theme=juicyfresh&no-bg=true" />
+
+
