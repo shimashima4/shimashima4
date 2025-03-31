@@ -1,22 +1,22 @@
-# About Me
+# Hello! Myname is Aoshima.
 
-1. I'm a web frontend and backend developer from Japan
+## about
+トライデントコンピュータ専門学校のWebデザイン学科で
+フロントエンドエンジニアを目指して勉強しています。
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+## profile
+2003年11月25日生まれ
+水族館に行くことが趣味
+高校時代はAiやPsを使用したデザインを制作する部活に所属
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
+## Skills
+**Languages**: JavaScript, HTML, CSS, C
+[![スキル](https://skillicons.dev/icons?i=ai,ps,figma,html,css,sass,tailwind,js,ts,threejs,p5js,react,arduino,blender&perline=8)]()
+**Tools**: VS Code, Git, Figma, Illstrator, Photoshop, premierPro, AfterEffects
 
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+## links
+- [X](https://x.com/aoshimalobo?s=21)
+- [blog](https://aoshima.pupu.jp/blog/)
 
 ## DB and Dev Tools etc
 
