@@ -1,6 +1,7 @@
 # Hello! Myname is Aoshima.
 <br>
-<img text-align="center" src="https://avatars.githubusercontent.com/u/166364882?v=4">
+{: align="center"}
+![my icon]<img src="https://avatars.githubusercontent.com/u/166364882?v=4">
 <br>
 
 ## 🗒️about
